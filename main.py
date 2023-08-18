@@ -1,4 +1,2 @@
-x = 5
-if x > 2:
-    if x < 10:
-        print("x is between 2 and 10")
+numbers = [1, 2, 3, 4, 5]
+print(numbers[1:3])
