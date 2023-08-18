@@ -1,2 +1,5 @@
-numbers = [1, 2, 3, 4, 5]
-print(numbers[1:3])
+fruits = ['apple', 'banana', 'cherry']
+for x in fruits:
+    print(x)
+    if x == 'banana':
+        break
